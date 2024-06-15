@@ -8,5 +8,5 @@
 
 // instantiate core class
 // $init = new Core();
-GOOD ONTOP
+
 echo "SCARED INFO";

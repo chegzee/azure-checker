@@ -3,6 +3,6 @@
 //   echo session_start();
 // }
 
-// require_once './app/require.php';
+require_once '../app/require.php';
 
-echo "SCARED INFO";
+// echo "SCARED INFO";
