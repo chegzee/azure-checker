@@ -1,6 +1,6 @@
-<IFModule mod_rewrite.c>
+<IFModule mod_rewrite.c> 
 	RewriteEngine on
 	RewriteRule ^$ public/ [L]
-	RewriteCond %{REQUEST_URI} !^/public/? [NC]
+#	RewriteCond %{REQUEST_URI} !^/public/? [NC] 
 	RewriteRule (.+) public/$1 [L]
 </IfModule>

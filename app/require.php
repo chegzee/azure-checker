@@ -9,4 +9,4 @@
 // instantiate core class
 // $init = new Core();
 
-echo "SCARED INFO";
+echo "REQUEST_URL";
